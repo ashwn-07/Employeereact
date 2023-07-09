@@ -10,7 +10,7 @@ function App() {
   
 
   <Routes>
-    <Route path="/Employeereact" element={<Hompage/>}/>  
+    <Route path="/" element={<Hompage/>}/>  
     <Route path="/employeereg" element={<Employeereg/>}/>
 </Routes>
     </div>

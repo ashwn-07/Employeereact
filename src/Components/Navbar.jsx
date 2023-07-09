@@ -33,7 +33,7 @@ const Navbar = () => {
           variant="h5"
           sx={{ paddingRight:"25px", letterSpacing: "2px" }}
         >
-         <Link href="/Employeereact" underline="none" color={"inherit"} sx={{"&:hover":{color:"black"}}}>
+         <Link href="/" underline="none" color={"inherit"} sx={{"&:hover":{color:"black"}}}>
   {'Home'}
 </Link>
         </Typography>
