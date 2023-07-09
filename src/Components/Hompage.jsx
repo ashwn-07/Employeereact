@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "./Navbar";
 import axios from "axios";
-import { Box, Container, Grid } from "@mui/material";
+import {  Grid } from "@mui/material";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
-import CardMedia from "@mui/material/CardMedia";
+
 import Typography from "@mui/material/Typography";
-import { Button, CardActionArea, CardActions } from "@mui/material";
+import {  CardActionArea } from "@mui/material";
 const Hompage = () => {
   const [data, setdata] = useState([]);
 
