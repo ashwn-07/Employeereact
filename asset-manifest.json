@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employeereact/static/css/main.e6c13ad2.css",
+    "main.js": "/Employeereact/static/js/main.830782dd.js",
+    "static/js/787.cda612ba.chunk.js": "/Employeereact/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Employeereact/index.html",
+    "main.e6c13ad2.css.map": "/Employeereact/static/css/main.e6c13ad2.css.map",
+    "main.830782dd.js.map": "/Employeereact/static/js/main.830782dd.js.map",
+    "787.cda612ba.chunk.js.map": "/Employeereact/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.830782dd.js"
+  ]
+}
